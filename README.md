@@ -1,4 +1,4 @@
-# Generador
+# Generador y Piano
 Contiene los códigos del generador de señales y del piano.
 
 Módulos usados
@@ -11,4 +11,4 @@ Módulos usados
 
 Se recomienda instalar
 
-WxFormBuild
+- WxFormBuild
