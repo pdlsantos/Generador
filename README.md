@@ -1,5 +1,5 @@
 # Generador y Piano
-Contiene los códigos del generador de señales y del piano.
+Contiene los códigos del Generador de Señales AC y del Teclado MIDI.
 
 Módulos usados
 
