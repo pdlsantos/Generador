@@ -1,4 +1,4 @@
-# Generador y Piano
+# Generador y Teclado
 Contiene los códigos del Generador de Señales AC y del Teclado MIDI.
 
 Módulos usados
